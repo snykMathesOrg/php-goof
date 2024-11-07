@@ -21,7 +21,7 @@
                 "shasum": ""
             },
             "require": {
-                "guzzlehttp/guzzle": "^5.3 || ^6.0.1",
+                "guzzlehttp/guzzle": "^5.2 || ^6.0.1",
                 "guzzlehttp/promises": "^1.0.0",
                 "guzzlehttp/psr7": "^1.0.0",
                 "mtdowling/jmespath.php": "^2.2",
